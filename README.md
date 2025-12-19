@@ -32,7 +32,7 @@ python gen_multi_turn.py \
 
 
 
-## MFeature Extraction & Analysis
+## Feature Extraction & Analysis
 TThis script extracts lexical, syntactic, alignment, diversity, repetition, and speech-act features from generated data (single-turn, multi-turn, or combined). 
 ```
 python gen_multi_turn.py \
